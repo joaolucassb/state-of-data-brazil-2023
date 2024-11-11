@@ -1,3 +1,5 @@
 !pip install pandas
 !pip install openpyxl
 pip install plotly
+pip install sqlalchemy
+pip install dash
